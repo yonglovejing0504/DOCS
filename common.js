@@ -170,12 +170,15 @@ https://cloud.tencent.com/developer/section/1373126
 š
 https://www.cnblogs.com/huangjialin/p/6245122.html
 
+¡
+
 https://www.jianshu.com/p/abf4e19f245c
 à–¾API
 https://reactnative.cn/docs/next/asyncstorage.html
 
 
 import {  AsyncStorage } from 'react-native';
+
 
 _storeData = async () => {
   try {
