@@ -1,3 +1,9 @@
+AWS云?建EC2与使用注意事?-?坑??
+https://www.cnblogs.com/operationhome/p/11037867.html
+
+WS考?方向：二、?例?定?性IP
+https://blog.51cto.com/leoheng/2151426
+
 gorilla/sessions
 https://blog.csdn.net/wangshubo1989/article/details/78921468
 
@@ -9,3 +15,4 @@ https://segmentfault.com/a/1190000015907713
 
 react-native如何??自?打包？react-native自?打包的方法
 https://www.php.cn/div-tutorial-407749.html
+
