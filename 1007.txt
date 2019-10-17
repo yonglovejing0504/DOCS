@@ -1,18 +1,24 @@
-AWS�]?��EC2�^�g�p���ӎ�?-?�B??
+SECONDシステムは審査入力・照会、契約照会、入金実績の表示及び営業支援などのシステムが含まれる。
+プロセス：基本設計～総合テスト
+機能は営業支援及び各ポップアップ画面の改修を主に担当していた。
+DBレイアウト変更とデータ移行も担当していた。
+
+
+AWS云?建EC2与使用注意事?-?坑??
 https://www.cnblogs.com/operationhome/p/11037867.html
 
-WS�l?�����F��A?��?��?��IP
+WS考?方向：二、?例?定?性IP
 https://blog.51cto.com/leoheng/2151426
 
 gorilla/sessions
 https://blog.csdn.net/wangshubo1989/article/details/78921468
 
-react native ios�ŕ��(������) 
+react native ios打包流程(小白文) 
 https://my.oschina.net/KJhulinhua/blog/1585628
 
-react-native��?�ŕ������?��
+react-native自?打包部署方案?解
 https://segmentfault.com/a/1190000015907713
 
-react-native�@��??��?�ŕ�Hreact-native��?�ŕ�I���@
+react-native如何??自?打包？react-native自?打包的方法
 https://www.php.cn/div-tutorial-407749.html
 
