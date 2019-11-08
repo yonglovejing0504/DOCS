@@ -1,3 +1,25 @@
+https://docs.aws.amazon.com/zh_cn/sdk-for-javascript/v2/developer-guide/sns-examples-sending-sms.html
+
+S3配置网站
+https://blog.csdn.net/zzdjk6/article/details/46542145/
+
+阿里云/万网CNAME配置的详细图文流程 新手必看教程
+https://yq.aliyun.com/articles/717168?spm=a2c4e.11155472.0.0.4997216dNg7TlZ
+
+
+私有 IPv4:172.31.38.138
+
+内部 DNS 主机名:ip-172-31-38-138.ap-northeast-1.compute.internal
+
+
+公有 IP 地址:13.115.248.150
+外部 DNS 主机名:ec2-13-115-248-150.ap-northeast-1.compute.amazonaws.com
+
+
+japanbear.top
+www.japanbear.top
+
+
 初めまして、王さんの友達の張です。
 返事が大変遅れて、申し訳ございません。
 日本語がよくないから、メッセージで連絡致します。
