@@ -1,5 +1,15 @@
+
+ふるさと税例：
+https://www.furusato-tax.jp/about/tax_return
+
+
+申告書等を作成する
+https://www.keisan.nta.go.jp/kyoutu/ky/sm/top#bsctrl
+
+
 https://help.aliyun.com/knowledge_detail/39825.html?spm=5176.11065259.1996646101.searchclickresult.763c7c6aKuHAfi
 用自己的域名后缀做为邮箱地址 — 腾讯企业邮箱的设置方法
+
 https://www.drawtime.com/show.php?d=103
 https://www.namecheap.com/support/knowledgebase/article.aspx/322/2237/how-can-i-set-up-mx-records-required-for-mail-service
 腾讯企业邮箱outlook设置
