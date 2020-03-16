@@ -1,3 +1,43 @@
+
+//大分類
+var jsonsB = [];
+
+//中分類
+var jsonsM = [];
+
+var json = [
+
+　　{id:'001',name:'A',price:'100'},
+　　{id:'001',name:'A',price:'200'}
+
+];
+
+//JSONのループ
+for(var i=0,l=json.length;i<l;i++){
+
+	keyprice =json[i]['price'];
+	jsonsM.push({"price":json[i]['price']})
+
+}
+//alert(json[0]['details'])
+//JSONの構成を変更
+jsonsB.push({"id":json[0]['id']})
+jsonsB.push({"name":json[0]['name']})
+jsonsB.push({"details":jsonsM})
+
+
+
+for(var i=0,l=jsonsB.length;i<l;i++){
+
+alert(jsonsB[2]['details'][1]['price'])
+
+}
+
+
+
+
+
+
 https://www.cnblogs.com/joe235/p/11453438.html
 https://github.com/zhihuifanqiechaodan/wx-foodComponent
 
