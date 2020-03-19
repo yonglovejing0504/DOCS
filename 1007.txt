@@ -1,3 +1,33 @@
+https://www.jsdaima.com/webpage/759.html
+??的?品??管理?面模板
+网?地址：https://pan.baidu.com/s/1OS1_d1MBlhAIDDNNUoRzcQ
+网?密?：2k6s
+通用的?子商?商城后台管理界面模板??后台
+?接：http://pan.baidu.com/s/1bpBrSR1 密?：nziy
+
+购物车
+https://www.jianshu.com/p/b01e76034e07
+https://my.oschina.net/huangxiujie/blog/759693
+
+
+
+小程序个人中心
+http://www.lanrenmb.com/xiaochengxujiaocheng/10648.html
+https://blog.csdn.net/zhenghhgz/article/details/81352863
+https://blog.csdn.net/rolan1993/article/details/76985495
+
+支付
+https://www.cnblogs.com/zhixi/p/9771685.html
+https://www.cnblogs.com/weichen913/p/10269070.html
+https://blog.csdn.net/XorPay/article/details/90445076
+https://www.eyoucms.com/ask/list_1_2/3496.html
+
+
+粒子登录
+http://www.bootstrapmb.com/item/4530
+http://www.cssmoban.com/tags.asp?n=bootstrap%E5%90%8E%E5%8F%B0
+
+
 
 //大分類
 var jsonsB = [];
